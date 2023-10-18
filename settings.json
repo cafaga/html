@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "aicodehelper.gptkey": "****",
+    "aicodehelper.language": "korean",
+    "python.defaultInterpreterPath": "C:\\Users\\user03\\anaconda3\\python.exe",
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.wordWrap": "on"
+}
